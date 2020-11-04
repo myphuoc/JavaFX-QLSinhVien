@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javafx-datepicker-0.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javafx-datepicker-0.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfoenix-8.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mssql-jdbc-7.0.0.jre8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
